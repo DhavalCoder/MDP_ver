@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1753805441" />
+    <testcase name="simple_coin_acceptor_test" classname="test_coin_acceptor" file="/home/dhaval/MDP_ver/test_coin_acceptor.py" lineno="7" time="0.05790305137634277" sim_time_ns="805.001" ratio_time="13902.566114657235" />
+  </testsuite>
+</testsuites>
